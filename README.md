@@ -1,4 +1,1 @@
-# my-first-git-
-this is my first git repository
-<br>
-Author - Bharat Babriwal(bk)
+#this is my local repo
